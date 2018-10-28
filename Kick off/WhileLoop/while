@@ -1,0 +1,19 @@
+
+#include <iostream>
+using namespace std;
+int main() {
+//	int count=1;
+//	while(count <=5){
+//		cout<<"Hello"<< endl;
+//		count++;
+//	}
+    int index=1;
+  
+    do{
+    	cout<<"SamJay"<<endl;
+        index++;
+    
+	}while(index<=5);
+	
+	return 0;
+}
