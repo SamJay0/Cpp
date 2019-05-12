@@ -19,6 +19,6 @@ int main() {
 //	else{
 //		cout<<"Female";
 //	}
-cout<<getMax(30,24);
+cout<<getMax(30,24)<<endl;
 	return 0;
 }

@@ -1,5 +1,6 @@
 #include <iostream>
 using namespace std;
+
 int main(){
 	int maxGuess=3;
 	bool outOfGuesses=false;
